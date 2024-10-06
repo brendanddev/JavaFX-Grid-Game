@@ -1,5 +1,5 @@
-package assignmentEight_000879513;
-
+package gridGameV1;
+    
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 
@@ -11,7 +11,7 @@ import javafx.scene.paint.Color;
  * to retrieve the circles radius, and the implementation for the overridden abstract 'draw' method inherited from the
  * piece class which will draw the circle piece on the game grid.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 
 public class Circle extends Piece{
