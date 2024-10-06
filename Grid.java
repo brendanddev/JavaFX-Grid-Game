@@ -1,4 +1,5 @@
-package assignmentEight_000879513;
+package gridGameV1;
+
 import java.util.ArrayList;
 
 /**
@@ -12,7 +13,7 @@ import java.util.ArrayList;
  * game pieces. The class will also have getter methods for the number of rows, and columns, aswell as methods to manipulate
  * the 'pieces' array list by adding, removing, finding, or clearing pieces in the array list.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 
 public class Grid {
