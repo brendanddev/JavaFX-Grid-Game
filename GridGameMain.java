@@ -1,4 +1,4 @@
-package assignmentEight_000879513;
+package gridGameV1;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -35,7 +35,7 @@ import javafx.stage.Stage;
  * the use of the users mouse, will incorporate exception handling to ensure that each action is validated.
  *
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 public class GridGameMain extends Application {
 
