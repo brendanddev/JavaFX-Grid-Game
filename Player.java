@@ -1,4 +1,4 @@
-package assignmentEight_000879513;
+package gridGameV1;
 
 import javafx.scene.paint.Color;
 
@@ -11,7 +11,7 @@ import javafx.scene.paint.Color;
  * there will be two getter methods for retrieving the players number, and the color of the player. This allows the game
  * to determine what player is doing what, and allows for the creation of multiple players.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 
 public class Player {
