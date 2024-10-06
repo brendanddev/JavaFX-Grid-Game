@@ -1,4 +1,4 @@
-package assignmentEight_000879513;
+package gridGameV1;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
@@ -14,7 +14,7 @@ import javafx.scene.paint.Color;
  * used to determine if a piece has been selected, or changing which piece has been selected 'isPieceSelected' and
  * 'setSelectedPiece'.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
 
 public abstract class Piece {
