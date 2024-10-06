@@ -1,4 +1,4 @@
-package assignmentEight_000879513;
+package gridGameV1;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
@@ -12,7 +12,7 @@ import javafx.scene.paint.Color;
  * of the side length, and a 'draw' method, which is implemented and overridden from the piece class abstract 'draw'
  * method, which consists of logic that will be specific to drawing the square on the game grid.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
 
 public class Square extends Piece{
